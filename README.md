@@ -8,7 +8,7 @@
 
 ## 💫 Stack
   - Front-end  
-  &nbsp;node.js, javascript, JQuery, Vue.js
+  &nbsp;javascript, JQuery, Vue.js
   
   
   - Back-end  
