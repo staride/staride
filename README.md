@@ -3,7 +3,7 @@
 
 ## 👩‍💻 About me
   - full stack developer
-  - how to reach me : staridee@naver.com
+  - how to reach me : staridee@gmail.com
   - 📍 Seoul, Korea
 
 ## 💫 Stack
