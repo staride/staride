@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Kain Kim
+# I'm Kain Kim
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstaride&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 👩‍💻 About me
@@ -7,23 +7,32 @@
   - 📍 Seoul, Korea
 
 ## 💫 Stack
-  - Front-end
-    node.js, javascript, JQuery, Vue.js
-    
-  - Back-end
-    Spring, SpringBoot, Python Flask
+  - Front-end  
+  &nbsp;node.js, javascript, JQuery, Vue.js
   
-  - ORM
-    SQLAlchemy, JPA
   
-  - CI
-    Jenkins
+  - Back-end  
+  &nbsp;Spring, SpringBoot, Python Flask
   
-  - Tools
-    IntelliJ, vscode, Eclipse
   
-  - ETC
-    mysql, mariaDB, Oralce
+  - ORM  
+  &nbsp;SQLAlchemy, JPA
+  
+  
+  - CI  
+  &nbsp;Jenkins
+  
+  
+  - Tools  
+  &nbsp;IntelliJ, vscode, Eclipse
+  
+  
+  - Database  
+  &nbsp;mysql, mariaDB, Oralce
+  
+  
+  - ETC  
+  
   
 ## git status
 
